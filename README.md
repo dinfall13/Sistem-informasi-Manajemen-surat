@@ -304,7 +304,7 @@ Menggunakan Blade Engine untuk memisahkan struktur utama halaman web dengan kont
 
 1. **Clone repository ini:**
    ```bash
-   git clone https://github.com/kansaa-dev/Praktikum-Laravel
+   git clone https://github.com/dinfall13/Sistem-informasi-Manajemen-surat
    ```
 2. **Masuk ke direktori proyek:**
    ```bash
