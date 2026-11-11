@@ -308,7 +308,7 @@ Menggunakan Blade Engine untuk memisahkan struktur utama halaman web dengan kont
    ```
 2. **Masuk ke direktori proyek:**
    ```bash
-   cd Praktikum-Laravel
+   cd Sistem-informasi-Manajemen-surat
    ```
 3. **Install dependensi composer:**
    ```bash
